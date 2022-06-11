@@ -6,5 +6,6 @@
 - `c#` **Make my life a little bit shorter by raging to some error.** `learning progress: 10%`
 ### Planning to learn in the near future:
 - `golang` **idk why probably for cursor dance client** `start: yes`
+- `kotlin` **for minecraft plugin #2**
 ### Already learned:
 - `javascript` **discord bot yes**
